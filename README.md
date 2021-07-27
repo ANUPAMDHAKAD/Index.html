@@ -1,12 +1,13 @@
 # Studypod2.0
 <body>
+     <font face="arial" color="#FFFF00">
      <div>
     <p><b>Name : </b><i>Anupam Nagar</i></p>
     <p><b>Branch : </b><i>IT</i></p>
     <p><b>Year : </b><i>1st</i></p>
     <p><b>SP No. : </b><i>SP0201</i></p>
     <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
-</div>
+          </div></font>
     <div>
     <table border="5">
         <caption style="font-size: 30px;"><b>STUDYPOD2.0 DAILY REPORT</b> </caption>
