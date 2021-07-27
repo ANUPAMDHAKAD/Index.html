@@ -2,14 +2,22 @@
 <body>
     <table id="header" border="0" width="100" bgcolor="#292929">
         <tr>
-            <td align="center">
-                 <div>
-            <p><b>Name : </b><i>Anupam Nagar</i></p>
-            <p><b>Branch : </b><i>IT</i></p>
-            <p><b>Year : </b><i>1st</i></p>
-            <p><b>SP No. : </b><i>SP0201</i></p>
-            <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
-        </div>
+            <td>
+                <table border="0" width="100" align="center">
+                    <tr>
+                        <td>
+                            <font face="arial" color="#FFFFFF">
+                             <div>
+                                 <p><b>Name : </b><i>Anupam Nagar</i></p>
+                                 <p><b>Branch : </b><i>IT</i></p>
+                                 <p><b>Year : </b><i>1st</i></p>
+                                 <p><b>SP No. : </b><i>SP0201</i></p>
+                                 <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
+                             </div>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
             </td>
         </tr>
     </table>
