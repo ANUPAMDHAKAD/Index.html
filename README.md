@@ -1,20 +1,14 @@
 # Studypod2.0
 <body>
-    <table border="0" width="100" bgcolor="#FFFF00">
-         <tr>
-              <td align="center">
-                   <div>
+    <div>
                        
     <p><b>Name : </b><i>Anupam Nagar</i></p>
     <p><b>Branch : </b><i>IT</i></p>
     <p><b>Year : </b><i>1st</i></p>
     <p><b>SP No. : </b><i>SP0201</i></p>
     <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
-          </div>
-              </td>
-         </tr>
-     </table>
-                   
+     </div>
+                 
    
                    
     <div>
