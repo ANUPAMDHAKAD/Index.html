@@ -1,5 +1,8 @@
 # Studypod2.0
 <body>
+    <p{
+        color:red;
+        }
     <div>
         <p><b>Name : </b><i>Anupam Nagar</i></p>
         <p><b>Branch : </b><i>IT</i></p>
