@@ -55,6 +55,7 @@
                   <td>28/08/2021</td>
                   <td>Styling</td>
                   <td>Text, link , fonts,cursher,box shadow,filter gradient</td>
+                  <td>NO</td>
     </tr>
     </tbody>
         </table>
