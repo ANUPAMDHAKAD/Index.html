@@ -49,8 +49,14 @@
                     <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
                     <td>NO</td>
                     <td></td>
-                </tr>
-            </tbody>
+              </tr>
+              <tr>
+                  <td>3</td>
+                  <td>28/08/2021</td>
+                  <td>Styling</td>
+                  <td>Text, link , fonts,cursher,box shadow,filter gradient</td>
+    </tr>
+    </tbody>
         </table>
     </div>
 </body>
