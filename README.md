@@ -23,7 +23,7 @@
     </table>
     <div>
     <table border="5">
-        <caption style="font-size: 30px;"><b>STUDYPOD2.0 DAILY REPORT</b> </caption>
+        <H1><b>STUDYPOD2.0 DAILY REPORT</b></H1> <caption style="font-size: 30px;"><b>STUDYPOD2.0 DAILY REPORT</b> </caption>
         <thead>
             <tr>
                 <th width="350">S.No</th>
