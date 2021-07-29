@@ -38,7 +38,7 @@
                     <td>1</td>
                     <td>21/07/2021</td>
                     <td>INDEX.HTML</td>
-                    <td>Basic structure of HTML<br>
+                    <td>HTML:HYPER TEXT MARKUP LANGUAGE<BR>Basic structure of HTML<br>
                     Elemnet,Attribute,Comments & some basic tags</td>
                     <td>NO</td>
                     <td></td>
@@ -55,13 +55,35 @@
               </tr>
               <tr>
                   <td>3</td>
-                  <td>23/08/2021</td>
+                  <td>23/07/2021</td>
                   <td>INDEX.HTML</td>
                   <td>FORMS IN HTML,<BR>
                       FORM SELECT OPTION,<BR>
                       RADIO BUTTON & CHECKBOX,<BR></td>
                   <td>NO</td>
+                      </tr>
+                       <tr>
+                  <td>4</td>
+                  <td>24/07/2021</td>
+                  <td>INDEX.HTML</td>
+                  <td>MY FIRST HTML PAGE</td>
+                  <td>NO</td>
     </tr>
+                        <tr>
+                  <td>5</td>
+                  <td>25/07/2021</td>
+                  <td>INDEX.HTML</td>
+                  <td>MY FIRST HTML PAGE</td>
+                  <td>NO</td>
+    </tr>
+                      <tr>
+                  <td>6</td>
+                  <td>26/07/2021</td>
+                  <td>INDEX.HTML</td>
+                  <td>INTRODUCTION OF CSS<BR>(CSS: CASCADING STYLE SHEET)<BR></td>
+                  <td>NO</td>
+    </tr>
+                      
     </tbody>
         </table>
     </div>
