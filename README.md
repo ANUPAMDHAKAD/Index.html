@@ -36,9 +36,10 @@
             <tbody>
                 <tr>
                     <td>1</td>
-                    <td>26/07/2021</td>
+                    <td>21/07/2021</td>
                     <td>INDEX.HTML</td>
-                    <td>CSS::external,internal,<br>inline stlye,comments</td>
+                    <td>Basic structure of HTML<br>
+                    Elemnet,Attribute,Comments & some basic tags</td>
                     <td>NO</td>
                     <td></td>
                 </tr>
