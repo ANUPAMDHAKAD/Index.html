@@ -45,17 +45,24 @@
                 </tr>
                 <tr>
                     <td>2</td>
-                    <td>27/07/2021</td>
-                    <td>Styling</image></td>
-                    <td>Background image<br>box model(margin,padding,<br>border,box size)</td>
+                    <td>22/07/2021</td>
+                    <td>INDEX.HTML</td>
+                    <td>HOW TO MAKE LINK IN HTML<BR>
+                        
+                    LIST,TABLE IN HTML,<BR>
+                        INSERT AUDIO, VIDEO,PDF,<BR>
+                        &NBSP;
+                   </td>
                     <td>NO</td>
                     <td></td>
               </tr>
               <tr>
                   <td>3</td>
-                  <td>28/08/2021</td>
-                  <td>Styling</td>
-                  <td>Text, link , fonts,cursher,box shadow,filter gradient</td>
+                  <td>23/08/2021</td>
+                  <td>INDEX.HTML</td>
+                  <td>FORMS IN HTML,<BR>
+                      FORM SELECT OPTION,<BR>
+                      RADIO BUTTON & CHECKBOX,<BR></td>
                   <td>NO</td>
     </tr>
     </tbody>
