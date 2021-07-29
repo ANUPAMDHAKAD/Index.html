@@ -47,11 +47,8 @@
                     <td>2</td>
                     <td>22/07/2021</td>
                     <td>INDEX.HTML</td>
-                    <td>HOW TO MAKE LINK IN HTML<BR>
-                        
-                    LIST,TABLE IN HTML,<BR>
-                        INSERT AUDIO, VIDEO,PDF,<BR>
-                        &NBSP;
+                    <td>HOW TO MAKE LINK IN HTML, LIST,TABLE IN HTML,
+                        INSERT AUDIO, VIDEO,PDF
                    </td>
                     <td>NO</td>
                     <td></td>
