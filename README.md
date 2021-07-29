@@ -1,29 +1,17 @@
 # Studypod2.0
 <body>
-    <table id="header" border="0" width="100" bgcolor="#292929">
-        <tr>
-            <td>
-                <table border="0" width="100" align="center">
-                    <tr>
-                        <td>
-                            <font face="arial" color="#FFFFFF">
-                             <div>
-                                 <p><b>Name : </b><i>Anupam Nagar</i></p>
-                                 <p><b>Branch : </b><i>IT</i></p>
-                                 <p><b>Year : </b><i>1st</i></p>
-                                 <p><b>SP No. : </b><i>SP0201</i></p>
-                                 <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
-                             </div>
-                            </font>
-                        </td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </table>
+    <H2><TABLE BORDER="5" ALIGN ="CENTRE">
+        <DIV>
+            <p><b>Name : </b><i>Anupam Nagar</i></p>
+            <p><b>Branch : </b><i>IT</i></p>
+            <p><b>Year : </b><i>1st</i></p>
+            <p><b>SP No. : </b><i>SP0201</i></p>
+            <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
+        </div>
+    </TABLE></H2>
     <div>
     <table border="5">
-        <H1><b>STUDYPOD2.0 DAILY REPORT</b></H1> <caption style="font-size: 30px;"><b>STUDYPOD2.0 DAILY REPORT</b> </caption>
+        <H1><b>STUDYPOD2.0 DAILY REPORT</b></H1> 
         <thead>
             <tr>
                 <th width="350">S.No</th>
