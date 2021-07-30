@@ -1,6 +1,6 @@
 # Studypod2.0
 <body>
-    <H2><TABLE BORDER="5" ALIGN ="CENTRE" BGCOLR="#292929">
+    <H2><TABLE BORDER="5" ALIGN ="CENTRE">
         <DIV>
             <p><b>Name : </b><i>Anupam Nagar</i></p>
             <p><b>Branch : </b><i>IT</i></p>
