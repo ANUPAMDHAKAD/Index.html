@@ -94,6 +94,15 @@
                           <td>How To Add Css With HTML:<br> Externel, Internal,Inline css</td>
                           <td>NO</td>
                      </tr>
+                              <tr>
+                          <td>10</td>
+                          <td>30/07/2021</td>
+                          <td></td>
+                          <td>CSS Selector,comments,colors,background , borders ,height and 
+                              width,padding,box model,Fonts
+                                  </td>
+                          <td>NO</td>
+                     </tr>
                              </tbody>
         </table>
    
