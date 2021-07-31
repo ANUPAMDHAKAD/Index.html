@@ -106,7 +106,7 @@
                                <tr>
                           <td>11</td>
                           <td>31/07/2021</td>
-                          <td> CSS FILE IS NOT COMPLETE</td>
+                                   <td><MARK> CSS FILE IS NOT COMPLETE</MARK></td>
                           <td> CURSOR, BOXSHADOW,TABLES</td>
                           <td>NO</td>
                      </tr>
