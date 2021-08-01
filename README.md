@@ -110,6 +110,13 @@
                           <td> CURSOR, BOXSHADOW,TABLES</td>
                           <td>NO</td>
                      </tr>
+                               <tr>
+                          <td>12</td>
+                          <td>1/08/2021</td>
+                          <td>SORRY BOSS</td>
+                          <td> NO </td>
+                          <td>NO</td>
+                     </tr>
                              </tbody>
         </table>
    
