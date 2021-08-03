@@ -121,7 +121,7 @@
                           <td>13</td>
                           <td>3/08/2021</td>
                           <td>CSS COMPLETED</td>
-                          <td> NO </td>
+                          <td>JUMP TO PROJECT FROM TOMORROW </td>
                           <td>NO</td>
                      </tr>
                             </tbody>
