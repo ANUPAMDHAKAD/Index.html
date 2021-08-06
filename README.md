@@ -119,11 +119,40 @@
                      </tr>
                                <tr>
                           <td>13</td>
-                          <td>3/08/2021</td>
-                          <td>CSS COMPLETED</td>
-                          <td>JUMP TO PROJECT FROM TOMORROW </td>
+                          <td>2/08/2021</td>
+                          <td>#styling.css</td>
+                          <td>layer and z index, float and clear,transitions and animation,media query,and advanced selectors </td>
                           <td>NO</td>
                      </tr>
+                               <tr>
+                          <td>14</td>
+                          <td>3/08/2021</td>
+                          <td>#styling.css</td>
+                          <td>css almost completed</td>
+                          <td>NO</td>
+                     </tr>
+                              <tr>
+                          <td>15</td>
+                          <td>4/08/2021</td>
+                          <td>NO</td>
+                          <td>NO</td>
+                          <td>NO</td>
+                     </tr>
+                              <tr>
+                          <td>16</td>
+                          <td>5/08/2021</td>
+                          <td>introduction to java script</td>
+                          <td>project using HTML AND CSS</td>
+                          <td>NO</td>
+                     </tr>
+                              <tr>
+                          <td>17</td>
+                          <td>6/08/2021</td>
+                          <td>introduction to java script</td>
+                          <td>HELLO WORLD , COMMENT AND VARIABLE IN JS</td>
+                          <td>NO</td>
+                     </tr>
+                              
                             </tbody>
         </table>
    
