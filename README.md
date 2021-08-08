@@ -152,6 +152,20 @@
                           <td>HELLO WORLD , COMMENT AND VARIABLE IN JS</td>
                           <td>NO</td>
                      </tr>
+                              <tr>
+                          <td>18</td>
+                          <td>7/08/2021</td>
+                          <td>WORK ON FIRST PROJECT</td>
+                          <td></td>
+                          <td>NO</td>
+                     </tr>
+                              <tr>
+                          <td>19</td>
+                          <td>6/08/2021</td>
+                          <td>PROJECT1.HTML</td>
+                          <td>PROJECT 1 COMPLETED</td>
+                          <td>1 HTML PAGE KO DUSRE HTML PAGE SE KAISE LINK KRTE H ?</td>
+                     </tr>
                               
                             </tbody>
         </table>
