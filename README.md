@@ -161,11 +161,21 @@
                      </tr>
                               <tr>
                           <td>19</td>
-                          <td>6/08/2021</td>
+                          <td>8/08/2021</td>
                           <td>PROJECT1.HTML</td>
                           <td>PROJECT 1 COMPLETED</td>
                           <td>1 HTML PAGE KO DUSRE HTML PAGE SE KAISE LINK KRTE H ?</td>
                      </tr>
+                              <tr>
+                           <td>20</td>
+                           <td>9/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
+
+
+                  
                               
                             </tbody>
         </table>
