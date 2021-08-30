@@ -173,6 +173,90 @@
                            <td>operators and variable in Js</td>
                            <td>NO</td>
                      </tr>
+                               <tr>
+                           <td>21</td>
+                           <td>10/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
+                               <tr>
+                           <td>22</td>
+                           <td>11/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
+                               <tr>
+                           <td>23</td>
+                           <td>12/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
+                               <tr>
+                           <td>24</td>
+                           <td>13/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
+                               <tr>
+                           <td>25</td>
+                           <td>14/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
+                               <tr>
+                           <td>26</td>
+                           <td>15/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
+                               <tr>
+                           <td>27</td>
+                           <td>16/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
+                               <tr>
+                           <td>28</td>
+                           <td>17/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
+                               <tr>
+                           <td>29</td>
+                           <td>18/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
+                               <tr>
+                           <td>30</td>
+                           <td>19/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
+                               <tr>
+                           <td>31</td>
+                           <td>20/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
+                               <tr>
+                           <td>32</td>
+                           <td>21/08/2021</td>
+                           <td>re-start Java script </td>
+                           <td>operators and variable in Js</td>
+                           <td>NO</td>
+                     </tr>
 
 
                   
