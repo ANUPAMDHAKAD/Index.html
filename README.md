@@ -12,7 +12,7 @@
     <div>
     <table border="5">
         <H1><b>STUDYPOD2.0 DAILY REPORT</b></H1> 
-        <thead>
+
             <tr>
                 <th width="350">S.No</th>
                 <th width="350">Date</th>
@@ -21,7 +21,7 @@
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </TR>
-        </thead>
+
         <tbody>
             <tr>
                  <td>1</td>
