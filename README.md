@@ -1,16 +1,16 @@
 # Studypod2.0
 <body>
-    <H2><TABLE BORDER="5" ALIGN ="CENTRE">
-        <thead>
-        <DIV>
+
+
+       <dIV>
             <p><b>Name : </b><i>Anupam Nagar</i></p>
             <p><b>Branch : </b><i>IT</i></p>
             <p><b>Year : </b><i>1st</i></p>
             <p><b>SP No. : </b><i>SP0201</i></p>
             <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
         </div>
-        </thead>
-    </TABLE></H2>
+        
+   
     <div>
     <table border="5">
         
@@ -32,7 +32,7 @@
                  <td>1</td>
                  <td>21/07/2021</td>
                  <td>INDEX.HTML</td>
-                 <td>HTML:HYPER TEXT MARKUP LANGUAGE<BR>Basic structure of HTML<br>
+                 <td>HTML:HYPER TEXT MARKUP Language<BR>Basic structure of HTML<br>
                      Elemnet,Attribute,Comments & some basic tags</td>
                  <td>NO</td>
                  <td></td>
