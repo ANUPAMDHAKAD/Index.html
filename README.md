@@ -13,6 +13,7 @@
     </TABLE></H2>
     <div>
     <table border="5">
+        <thead>
         <H1><b>STUDYPOD2.0 DAILY REPORT</b></H1> 
 
             <tr>
@@ -23,6 +24,7 @@
                 <th width="350">Difficulty</th>
                 <th width="350">Solution</th>
             </TR>
+        </thead>
 
         <tbody>
             <tr>
