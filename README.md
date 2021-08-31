@@ -1,6 +1,7 @@
 # Studypod2.0
 <body>
     <H2><TABLE BORDER="5" ALIGN ="CENTRE">
+        <thead>
         <DIV>
             <p><b>Name : </b><i>Anupam Nagar</i></p>
             <p><b>Branch : </b><i>IT</i></p>
@@ -8,6 +9,7 @@
             <p><b>SP No. : </b><i>SP0201</i></p>
             <p><b>Mentor Name : </b><i>Anurag Gupta</i></p>
         </div>
+        </thead>
     </TABLE></H2>
     <div>
     <table border="5">
