@@ -13,8 +13,9 @@
     </TABLE></H2>
     <div>
     <table border="5">
+        
+        <H1><b>STUDYPOD2.0 DAILY REPORT</b></H1>
         <thead>
-        <H1><b>STUDYPOD2.0 DAILY REPORT</b></H1> 
 
             <tr>
                 <th width="350">S.No</th>
